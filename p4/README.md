@@ -12,11 +12,11 @@ Please refer to the corresponding video for the usage details.
 
 ### `p4. cbcl.py`
 
-Additional notebook for the [MIT-CBCL dataset](http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html). It briefly used while the lessons and you will need it to accomplish the final assessment. Store it the same folder with the previous one.
+Additional notebook for the [MIT-CBCL dataset](http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html). It is briefly used during the lessons and you will need it to accomplish the final assessment. Store it in the same folder with the previous one.
 
 Please refer to the corresponding video for the usage details.
 
-## Refferences
+## References
 
 ### LFW
 
